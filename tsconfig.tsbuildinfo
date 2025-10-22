@@ -1,1 +1,1 @@
-{"root":["./src/index.ts"],"version":"5.9.3"}
+{"root":["./src/index.ts","./src/grpc/client.ts","./src/grpc/request.ts","./src/grpc/stream.ts","./src/handlers/datahandler.ts"],"version":"5.9.3"}
